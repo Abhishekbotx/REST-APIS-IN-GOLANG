@@ -31,3 +31,6 @@ go.work.sum
 # Build directories
 bin/
 dist/
+
+/storage
+/config
